@@ -1,8 +1,10 @@
-[![CI](https://github.com/zhuminghui17/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/zhuminghui17/python-template/actions/workflows/cicd.yml)
+[![CICD](https://github.com/zhuminghui17/Databricks-ETL-Pipeline-Credit-Risk/actions/workflows/cicd.yml/badge.svg)](https://github.com/zhuminghui17/Databricks-ETL-Pipeline-Credit-Risk/actions/workflows/cicd.yml)
 
 
 
 # Project #3: Databricks ETL (Extract Transform Load) Pipeline in Credit Card Approval
+
+Video Demo: https://youtu.be/1I5Hpd-tVxI
 
 ## Overview
 
@@ -62,7 +64,7 @@ Use Delta Lake for efficient and reliable data storage.
 
 ### 5. Visualize Data
 Make data visualization for intuitive insights
-![Alt text](/images/image-6.png)
+![Alt text](/images/image-12.png)
 ![Alt text](/images/image-7.png)
 ![Alt text](/images/image-8.png)
 
@@ -80,7 +82,7 @@ Delta Lake offers several key benefits:
 ## Automated Pipeline and Trigger
 After setting up the trigger, the ETL pipeline will run automatically according to the schedule which is specified. 
 ![Alt text](/images/image-10.png)
-![Alt text](/images/image-11.png)
+![Alt text](/images/image-13.png)
 
 ## Conclusion and Actionable, data-driven recommendation
 - **Review and Adjust Credit Approval Criteria**:
